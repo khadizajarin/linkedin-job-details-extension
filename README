@@ -1,0 +1,56 @@
+
+# LinkedIn Job Details Chrome Extension
+
+## Description
+
+This Chrome extension dynamically fetches and displays job details from LinkedIn job pages. It updates the displayed information when the user selects a different job on the page, providing an efficient way to view key job details without leaving the current page.
+
+## Features
+
+- Fetches job details such as location, job type, role, and description.
+- Dynamically updates the displayed information when a new job is selected.
+- Easy to install and use.
+
+## Installation
+
+1. **Download the ZIP file**: [LinkedInJobDetailsExtension.zip](https://drive.google.com/file/d/14AlbqCTpKbqs1i2u9kX3Oh1GUWx1f79e/view?usp=sharing)
+
+2. **Extract the ZIP file**:
+   - Download the ZIP file from the provided link.
+   - Extract the contents to a folder on your computer.
+
+3. **Load the extension in Chrome**:
+   - Open Chrome and go to `chrome://extensions/`.
+   - Enable "Developer mode" by toggling the switch on the top right.
+   - Click on the "Load unpacked" button.
+   - Select the extracted folder from step 2.
+   - The extension will now be added to Chrome.
+
+## Usage
+
+1. **Navigate to LinkedIn Jobs**:
+   - Open LinkedIn and go to the Jobs section (e.g., [LinkedIn Jobs Page](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4061295956)).
+
+2. **Activate the Extension**:
+   - Click on the extension icon in the Chrome toolbar.
+   - The extension will display job details from the current LinkedIn job page.
+
+3. **View Job Details**:
+   - When you select a different job on the LinkedIn job page, the extension will automatically update the displayed details.
+
+## Video Walkthrough
+
+For a detailed walkthrough of the extension and its functionality, please watch the Loom video: [Loom Video](https://www.loom.com/share/364f2d71e5a5432a93a4475c5db82d49?sid=a0b10fa9-6d89-4160-9c7e-9b3b94bf5874)
+
+## Contribution
+
+If you have any suggestions or issues, please feel free to open an issue or pull request on the GitHub repository.
+
+## Contact
+
+For any questions or further information, you can reach me at:
+
+- **Email**: khadiza131310@gmail.com
+- **LinkedIn**: [Khadiza Jarin Roza](https://www.linkedin.com/in/khadiza-jarin-roza)
+- **GitHub**: [Khadiza Jarin Roza](https://github.com/khadizajarin)
+
