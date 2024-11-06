@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    width: 300px;
+  }
+  
+  h1 {
+    font-size: 18px;
+  }
+  
+  #job-details {
+    margin-top: 10px;
+  }
+  
+  #job-details p {
+    margin: 5px 0;
+  }
+  
+  #job-details span {
+    font-weight: normal;
+  }
+  
