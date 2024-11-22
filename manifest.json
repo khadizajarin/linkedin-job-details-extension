@@ -8,6 +8,7 @@
       "declarativeContent",
       "tabs"
     ],
+  
     "content_scripts": [
       {
         "matches": ["*://www.linkedin.com/jobs/*"],

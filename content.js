@@ -15,6 +15,8 @@ function fetchJobDetails() {
   return jobDetails;
 }
 
+// mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === 'getJobDetails') {
     const details = fetchJobDetails();
